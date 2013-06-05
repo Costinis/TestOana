@@ -1,0 +1,79 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#logo {
+	background-image: url(../images/header.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	height: 60px;
+}
+.owner {
+	margin-left: 8px;
+	background-image: url(../images/logo.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	float: left;
+	height: 60px;
+	width: 143px;
+}
+.homeBtn {
+	float: right;
+	margin-top: 14px;
+	margin-right: 15px;
+}
+.clear {
+	clear: both;
+}
+.textus {
+	background-color: #11697B;
+	padding: 7px;
+	border: 1px solid #05120F;
+	border-radius: 15px;
+	margin-bottom: 10px;
+}
+.textus h1 {
+	color: #EFA017;
+	font-size: 20px;
+	text-decoration: underline;
+}
+.pServices {
+	font-size: 14px;
+}
+.textus ul {
+	list-style-position: inside;
+	font-size: 14px;
+	padding-left: 20px;
+}
+.images {
+	text-align: center;
+	
+}
+.images img {
+	max-width: 350px;
+	border: 1px solid #003;
+	border-radius:15px;
+}
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+.phone-call {
+	float: right;
+	padding-right: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #F90;
+	padding-top: 5px;
+}
+.buton .ui-btn {
+	border-radius: 8px;
+	
+} 
+.back-page .ui-btn {
+   	border-radius: 8px;
+}
